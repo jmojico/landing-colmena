@@ -1,18 +1,17 @@
 body {
     background-color: #282828;
 }
-.hexagon {
-    position: relative;
-    width: 10rem;
-}
 
 .feature {
-    position: absolute;
-    top:25%;
-    left: 35%;
-    width: 3rem;
+    position: relative;
+    width: 6rem;
 }
 
 .card {
-    min-height: 400px;
+    min-height: 350px;
+    max-height: 350px;
+}
+
+#calendario{
+    width: 5rem;
 }
