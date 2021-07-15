@@ -24,3 +24,12 @@ body {
 .carousel-item > img {
     max-width: 50vw;
 }
+
+.appicon {
+    width: 10rem;
+
+}
+
+.appname {
+    width: 10rem;
+}
