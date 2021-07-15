@@ -21,10 +21,6 @@ body {
     max-width: 300px;
 }
 
-.carousel-item > img {
-    max-width: 50vw;
-}
-
 .appicon {
     width: 10rem;
 
