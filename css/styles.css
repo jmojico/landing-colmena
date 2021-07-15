@@ -12,6 +12,11 @@ body {
     max-height: 350px;
 }
 
-#calendario{
+#foro{
     width: 5rem;
+}
+
+.icon_store {
+    width: 300px;
+    max-width: 300px;
 }
