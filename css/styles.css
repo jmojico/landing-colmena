@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(105, 105, 105);
+    background-color: darkorange;
 }
 
 .feature {
@@ -77,8 +77,4 @@ body {
     font-size: 1.5rem;
     width: auto;
     height: 50px;
-}
-
-.card-text {
-    color:black
 }
